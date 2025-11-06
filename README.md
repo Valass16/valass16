@@ -1,16 +1,25 @@
-## Hi there 👋
+ 
+<picture>
+<source
 
-<!--
-**Valass16/valass16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+     srcset="https://github-readme-stats.vercel.app/api?username=valass16&show_icons=true&theme=dark"
 
-Here are some ideas to get you started:
+     media="(prefers-color-scheme: dark)"
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+   />
+<source
+
+     srcset="https://github-readme-stats.vercel.app/api?username=valass16&show_icons=true"
+
+     media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)"
+
+   />
+<img src="https://github-readme-stats.vercel.app/api?username=valass16&show_icons=true" />
+</picture>
+ 
+ 
+<div>
+<img align-"center" height-"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/swift/swift-original.svg"/>
+<img align-"center" height-"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg"/>
+<img align-"center" height-"30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" />
+</div>
